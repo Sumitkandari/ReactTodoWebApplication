@@ -1,0 +1,44 @@
+.nav-container {
+  width: 80%;
+  margin: 0 auto;
+  height: 50px;
+  background-color: rgba(25, 50, 51, 1);
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  position: relative;
+
+  
+}
+.nav-container ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    color: white;
+    margin: 0 auto;
+    
+    
+}
+ul li{
+    list-style: none;
+    
+    
+}
+.nav-noti{
+    font-size: 10px;
+    position: absolute;
+    left: 185px;
+}
+.nav-noti-fav{
+    font-size: 10px;
+    position: absolute;
+    right: 130px;
+    
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+
+

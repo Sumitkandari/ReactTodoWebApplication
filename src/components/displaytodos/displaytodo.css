@@ -1,0 +1,66 @@
+.dis-container {
+ width: 80%;
+ margin: 0 auto;
+ background-color: rgba(255, 191, 55, 1);
+
+}
+.dis-wrapper {
+ width: 80%;
+ margin: 0 auto;
+ display: grid;
+ grid-template-columns: 32% 32% 32%;
+ 
+}
+.dis-cards{
+  width: 90%;
+  height: 160px;
+  background-color: rgba(25, 50, 51, 1);
+  margin: 0 10px 10px 10px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 0 10px;
+  position: relative;
+
+}
+.dis-title {
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+}
+.dis-desc {
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  word-wrap: break-word;
+}
+.dis-favicon {
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background-color: white;
+  right: 5px;
+  top: 5px;
+}
+.dis-btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.dis-btn {
+  width: 28%;
+  border: 1px solid white;
+  border-radius: 3px;
+  background-color: transparent;
+  color: white;
+  height: 30px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.dis-cards  .delete{
+  background-color: rgba(255, 191, 55, 1);
+  color: black;
+  
+}

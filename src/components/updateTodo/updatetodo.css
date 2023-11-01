@@ -1,0 +1,28 @@
+.upt-title{
+    color: white;
+    font-weight: bold;
+    
+
+}
+.upt-text{
+    height: 25px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 5px ;
+    
+}
+.desc{
+    height: 40px;
+}
+
+.upt-btn{
+    width: 28%;
+  border: 1px solid white;
+  border-radius: 3px;
+  background-color: transparent;
+  color: white;
+  height: 30px;
+  font-size: 12px;
+  font-weight: bold;
+}
