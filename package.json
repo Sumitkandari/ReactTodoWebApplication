@@ -1,6 +1,6 @@
 {
   "name": "todo-redux",
-  "homepage": "git remote add origin https://Sumitkandari.github.io/ReactTodoWebApplication",
+  "homepage": "https://Sumitkandari.github.io/ReactTodoWebApplication",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
