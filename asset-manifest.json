@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://Sumitkandari.github.io/ReactTodoWebApplication/static/css/main.58da4bba.css",
+    "main.js": "/git%20remote%20add%20origin%20https://Sumitkandari.github.io/ReactTodoWebApplication/static/js/main.aaa01afa.js",
+    "index.html": "/git%20remote%20add%20origin%20https://Sumitkandari.github.io/ReactTodoWebApplication/index.html",
+    "main.58da4bba.css.map": "/git%20remote%20add%20origin%20https://Sumitkandari.github.io/ReactTodoWebApplication/static/css/main.58da4bba.css.map",
+    "main.aaa01afa.js.map": "/git%20remote%20add%20origin%20https://Sumitkandari.github.io/ReactTodoWebApplication/static/js/main.aaa01afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58da4bba.css",
+    "static/js/main.aaa01afa.js"
+  ]
+}
